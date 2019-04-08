@@ -1,11 +1,11 @@
 <?php
 /*
  Plugin Name: WooPrice
- Plugin URI: https://marvelwp.com/wooprice
+ Plugin URI: https://wpbaker.com/wooprice
  Description: Simple plugin for displaying woocommerce product price by productID and shortcode.
  Version: 1.0
  Author: Jayson Supsup
- Author URI: https://marvelwp.com
+ Author URI: https://wpbaker.com
  License: GPLv2 or later
  */
 
